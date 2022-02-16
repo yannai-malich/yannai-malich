@@ -1,5 +1,4 @@
 ### Hi there 👋 <br> Here is what I'm working on!
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... [Food-Trucks](https://github.com/yannai-malich/Food-Trucks)
 - 🌱 I’m currently learning ... DovOps Engineering, DevNet
